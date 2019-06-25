@@ -56,5 +56,5 @@ namespace  coco
 	template <class T>
 	std::mutex Singleton<T>::m_Mtx;
 
-};
+}
 #endif
